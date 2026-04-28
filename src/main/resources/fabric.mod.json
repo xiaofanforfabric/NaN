@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "nan",
+  "version": "${version}",
+  "name": "NaN",
+  "description": "NaN?Infinity?!",
+  "authors": [],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/nan/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.xiaofan.nan.client.NanClient"
+    ],
+    "main": [
+      "com.xiaofan.nan.Nan"
+    ]
+  },
+  "mixins": [
+    "nan.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric-api": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

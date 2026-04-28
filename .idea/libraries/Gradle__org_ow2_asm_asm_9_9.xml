@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: org.ow2.asm:asm:9.9" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.ow2.asm" artifactId="asm" version="9.9" baseVersion="9.9" />
+    <CLASSES>
+      <root url="jar://G:/Android/Gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/9.9/c29635c8a7afa03d74b33c1884df8abb2b3f3dcc/asm-9.9.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://G:/Android/Gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/9.9/a11dd3de6d3c4fe149474366d02cbfd6ce4e5ccd/asm-9.9-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://G:/Android/Gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/9.9/5aa89c77317a704e2e34d117b72756ff1c1530bb/asm-9.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
