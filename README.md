@@ -98,7 +98,7 @@ NaN 在计算机中代表 **Not a Number（不是数字）**——当一个数�
 ## ⚠️ Known Issues / 已知问题
 
 ### Stability / 稳定性
-**It depends on the mood of the universe. / 看老天爷脸色。**
+**Stability: It's in God's hands. / 看老天爷脸色。**
 
 The world may generate successfully, or it may crash with a beautifully chaotic crash report. Certain seeds and biomes are more prone to explosions than others. You have been warned.
 
